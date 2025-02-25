@@ -1,4 +1,4 @@
 provider "aws" {
-  profile = "esgi"
+  #profile = "esgi"
   region  = "us-east-1"   
 }
